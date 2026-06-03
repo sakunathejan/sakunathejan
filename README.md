@@ -44,9 +44,9 @@ const sakuna = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakunathejan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakunathejan&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakunathejan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakunathejan&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -134,6 +134,6 @@ Modern full-stack web platform.
 
 ### ⚡ Building. Learning. Growing.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sakunathejan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
