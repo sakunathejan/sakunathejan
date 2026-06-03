@@ -1,88 +1,139 @@
-# 👋 Hi, I'm Sakuna Thejan
+<div align="center">
 
-🚀 Software Engineering Undergraduate  
-💻 Full Stack Developer | MERN Stack Enthusiast  
-🏢 Entrepreneur | Founder of Mini Hobbies  
-🌱 Always learning new technologies and building innovative projects
+# 👋 Hey, I'm Sakuna Thejan
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Entrepreneur+%7C+Mini+Hobbies;Always+Building+Something+New" />
+
+</div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdtN3FnYm5rMXp1NXJmNWRzNm5ja3h5a3JlOHN4N2E1NmM1M2k2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 ## 🚀 About Me
 
-- 🎓 Studying Software Engineering
-- 💻 Learning and building with MERN Stack
-- 🛠️ Experience with C#, JavaScript, React, Node.js, Express, MongoDB
-- 🚗 Passionate about cars and automotive culture
-- 🏪 Running my own collectibles business: Mini Hobbies
-- 📚 Interested in cybersecurity, web development, and AI
+```javascript
+const sakuna = {
+    education: "Software Engineering",
+    code: ["JavaScript", "C#", "HTML", "CSS"],
+    technologies: {
+        frontEnd: ["React", "Next.js"],
+        backEnd: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL"],
+    },
+    business: "Mini Hobbies",
+    currentFocus: "MERN Stack & AI",
+};
+```
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,git,github,vscode,linux" />
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🔥 Current Projects
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛒 Mini Hobbies
-Collectible die-cast car business specializing in Hot Wheels and premium model cars.
+
+Premium die-cast collectibles store.
+
+⭐ Hot Wheels  
+⭐ Mini GT  
+⭐ Premium Models
+
+</td>
+
+<td width="50%">
 
 ### 🌐 SKYREK
-Modern web platform currently under development.
 
-### 🛍️ Sakuraa Products
-E-commerce project under development.
+Modern full-stack web platform.
+
+⭐ MERN Stack  
+⭐ Responsive Design  
+⭐ Secure Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sakuna-thejan-bb159a282">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sakuthejan200515@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Launch multiple production-ready applications
-- 📱 Build advanced MERN projects
-- 🤖 Learn AI integration in web applications
-- 🔒 Improve cybersecurity knowledge
-- 🌍 Contribute to open-source projects
+- 🚀 Scale Mini Hobbies
+- 💻 Master MERN Stack
+- 🤖 Build AI-powered applications
+- 🔒 Learn Ethical Hacking
+- 🌍 Contribute to Open Source
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-📧 Email: sakuthejan200515@gmail.com
+### ⚡ Building. Learning. Growing.
 
-💼 LinkedIn:  
-https://linkedin.com/in/sakuna-thejan-bb159a282
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
----
-
-### 💡 Favorite Quote
-
-> "Consistency beats motivation."
-
-⭐ Thanks for visiting my profile!
+</div>
