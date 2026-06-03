@@ -127,6 +127,7 @@ Modern full-stack web platform.
 - 🤖 Build AI-powered applications
 - 🔒 Learn Ethical Hacking
 - 🌍 Contribute to Open Source
+- 👾 Learn AI & ML
 
 ---
 
