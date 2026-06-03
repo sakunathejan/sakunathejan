@@ -65,9 +65,7 @@ const sakuna = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sakunathejan/sakunathejan/output/github-contribution-grid-snake-dark.svg" />
-
+  <img src="https://raw.githubusercontent.com/sakunathejan/sakunathejan/gh-pages/snake.svg" />
 </div>
 
 ---
