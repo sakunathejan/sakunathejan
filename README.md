@@ -34,7 +34,7 @@ const sakuna = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,git,github,vscode,linux, kali linux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,git,github,vscode,linux, kalilinux" />
 
 </p>
 
