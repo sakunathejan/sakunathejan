@@ -54,11 +54,9 @@ const sakuna = {
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakunathejan&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sakunathejan&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
