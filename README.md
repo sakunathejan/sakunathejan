@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sakuna Thejan
+<h1 align="center">Hi , I'm Sakuna Thejan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Entrepreneur+%7C+Mini+Hobbies;Always+Building+Something+New" />
 
