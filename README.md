@@ -32,10 +32,29 @@ const sakuna = {
 
 ## ⚡ Tech Arsenal
 
-<p align="center">
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,git,github,vscode,linux" />
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🐧 Operating System
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
