@@ -12,3 +12,80 @@ My journey extends beyond coding, as I am also exploring entrepreneurship 🚀 t
 
 I am constantly expanding my knowledge, embracing new challenges, and staying up to date with emerging technologies ⚡. My goal is to grow as a developer, entrepreneur, and lifelong learner while creating impactful products that make a difference. 🌟</p> </div>
 
+<br>
+    <br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<br>
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
+
+```javascript
+const sakuna = {
+    education: "Software Engineering",
+    code: ["JavaScript", "C#", "HTML", "CSS"],
+    technologies: {
+        frontEnd: ["React", "Next.js"],
+        backEnd: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL"],
+    },
+    business: "Mini Hobbies",
+    currentFocus: "MERN Stack & AI",
+};
+```
+
+## ⚡ Tech Arsenal
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,spring" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,javascript,php" />
+</p>
+
+### 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,npm" />
+</p>
+
+### 🐧 OS
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+</p>
