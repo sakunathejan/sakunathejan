@@ -89,3 +89,13 @@ const sakuna = {
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.shion.dev/api?username=sakunathejan&theme=react&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width="40%" src="https://streak-stats.demolab.com/?user=sakunathejan&theme=react&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="35%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakunathejan&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
