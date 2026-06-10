@@ -93,9 +93,21 @@ const sakuna = {
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="center">
   <img width="40%" src="https://github-readme-stats.shion.dev/api?username=sakunathejan&theme=react&hide_border=false&include_all_commits=true&count_private=false" />
-  <img width="40%" src="https://streak-stats.demolab.com/?user=sakunathejan&theme=react&hide_border=false" />
+  <!-- <img width="40%" src="https://streak-stats.demolab.com/?user=sakunathejan&theme=react&hide_border=false" /> -->
+    <a href="https://github.com/pawara-mmns">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakunathejan&layout=compact&langs_count=8&theme=react"/>
+  </a>
 </p>
 
+<!-- <p align="center">
+  <a href="https://github.com/pawara-mmns">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakunathejan&layout=compact&langs_count=8&theme=react"/>
+  </a>
+</p> -->
+
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakunathejan&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <a href="https://github.com/sakunathejan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakunathejan&custom_title=⚛️%20Sakuna's%20Contribution%20Graph&bg_color=0d1117&color=61DAFB&line=61DAFB&point=61DAFB&area=true&area_color=1F6FEB&hide_border=true" alt="Activity Graph">
+  </a>
 </p>
+
