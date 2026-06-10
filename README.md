@@ -119,3 +119,13 @@ const sakuna = {
 <img src="https://raw.githubusercontent.com/sakunathejan/sakunathejan/output/snake.svg" />
 
 </div>
+
+<!-- <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,100:000000&height=4" width="100%"/>
+<br/> -->
+
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sakunathejan?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
+</p>
