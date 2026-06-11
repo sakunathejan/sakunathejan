@@ -94,8 +94,8 @@ const sakuna = {
 <p align="center">
   <img width="40%" src="https://github-readme-stats.shion.dev/api?username=sakunathejan&theme=react&hide_border=false&include_all_commits=true&count_private=false" />
   <!-- <img width="40%" src="https://streak-stats.demolab.com/?user=sakunathejan&theme=react&hide_border=false" /> -->
-    <a href="https://github.com/pawara-mmns">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakunathejan&layout=compact&langs_count=8&theme=react"/>
+    <a href="https://github.com/sakunathejan">
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakunathejan&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
 
