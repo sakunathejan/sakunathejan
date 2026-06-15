@@ -122,23 +122,23 @@ const sakuna = {
 
 <div align="center">
 
-<!--## 👥 Amazing Contributors
+<h2 align="center">🤝 Open Source Contributors</h2>
 
-<p>
-  Thanks to everyone who has contributed to this project and helped make it better! ❤️
+<p align="center">
+  <a href="https://github.com/sakunathejan/group-project-01/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=sakunathejan/group-project-01" alt="Contributors" />
+  </a>
 </p>
 
-<a href="https://github.com/sakunathejan/sakunathejan/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sakunathejan/sakunathejan&max=1000" />
-</a>
+<p align="center">
+  <b>Thank you to all the amazing people who have contributed to this project. ❤️</b>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/github/contributors/sakunathejan/sakunathejan?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/sakunathejan/sakunathejan?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/sakunathejan/sakunathejan?style=for-the-badge" />
-
-</div>-->
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/sakunathejan/group-project-01?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/sakunathejan/group-project-01?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/sakunathejan/group-project-01?style=for-the-badge" />
+</p>
 
 <!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,100:000000&height=4" width="100%"/>
