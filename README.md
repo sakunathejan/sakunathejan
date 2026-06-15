@@ -120,6 +120,26 @@ const sakuna = {
 
 </div>
 
+<div align="center">
+
+<!--## 👥 Amazing Contributors
+
+<p>
+  Thanks to everyone who has contributed to this project and helped make it better! ❤️
+</p>
+
+<a href="https://github.com/sakunathejan/sakunathejan/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sakunathejan/sakunathejan&max=1000" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/contributors/sakunathejan/sakunathejan?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/sakunathejan/sakunathejan?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/sakunathejan/sakunathejan?style=for-the-badge" />
+
+</div>-->
+
 <!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,100:000000&height=4" width="100%"/>
 <br/> -->
