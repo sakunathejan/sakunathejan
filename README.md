@@ -126,7 +126,8 @@ const sakuna = {
 
 <p align="center">
   <a href="https://github.com/sakunathejan/group-project-01/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=sakunathejan/group-project-01" alt="Contributors" />
+    <img src="https://contrib.rocks/image?repo=sakunathejan/group-project-01&v=2" alt="Contributors" />
+    <!--<img src="https://contrib.rocks/image?repo=sakunathejan/group-project-01" alt="Contributors" />-->
   </a>
 </p>
 
